@@ -1,2 +1,3 @@
 # Global-Warming-Trends
-an analysis on global warming trend from 1961 to 2022
+An analysis on global warming trend from 1961 to 2022 <br>
+Best viewed in kaggle
